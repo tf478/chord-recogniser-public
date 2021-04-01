@@ -1,7 +1,7 @@
 # ChordRecogniser
 A simple plugin that attempts to determine what chord a set of midi notes represents. Built using [iPlug2](https://github.com/iPlug2/iPlug2).
 ## Build Instructions
-### XCode (macos only)
+### XCode (macOS only)
 Open `Examples/ChordRecogniser/ChordRecogniser.xcworkspace` using XCode, and Build (cmd+b). 
 ### Other IDEs
 Untested. Following the build instructions in the examples in the [iPlug2](https://github.com/iPlug2/iPlug2) repository should work.
